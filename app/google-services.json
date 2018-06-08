@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "388412758716",
+    "firebase_url": "https://idorepo.firebaseio.com",
+    "project_id": "idorepo",
+    "storage_bucket": "idorepo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388412758716:android:9726d8743d92c301",
+        "android_client_info": {
+          "package_name": "com.ido.apps.ido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388412758716-j8ma4gmvasg2t30audtnf5e64ie04v8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ido.apps.ido",
+            "certificate_hash": "b295de7be408b8cc10a908542b2a84bde36b63bd"
+          }
+        },
+        {
+          "client_id": "388412758716-m4jrji8d7mmd9jrp60o8kq191hha37se.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "388412758716-m4jrji8d7mmd9jrp60o8kq191hha37se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnUXz76srwjWxnlAaf-NqSEoGsgZHp58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388412758716-m4jrji8d7mmd9jrp60o8kq191hha37se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
